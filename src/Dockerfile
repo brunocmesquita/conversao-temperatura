@@ -1,4 +1,4 @@
-FROM ubuntu:lts
+FROM node:lts
 
 WORKDIR /app
 
